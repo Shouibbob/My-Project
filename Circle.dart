@@ -6,5 +6,6 @@ class areaCircle{
     num radius = Diameter! / 2;
     num res = pi * (radius * radius);
     print('the area of a circle is $res'); 
+    print('no');
   }
 }
